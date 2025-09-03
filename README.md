@@ -1,5 +1,5 @@
-# Anime-Girls-Holding-Programming-Books
-Anime Girls Holding Programming Books
+# TouhousHoldingProgrammingBooks
+Touhou Characters Holding Programming Books
 
 # Contribution Guidelines
 

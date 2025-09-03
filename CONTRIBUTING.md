@@ -9,4 +9,13 @@ Contribution Guide Lines
 
 * Add your images to the folder that best describes the subject matter of the book that the character is holding. If no existing folder applies create a new one, the simpler the name, the best;
 
-* All characters must be from or related to the Touhou Project (see README)
+* All characters must be from or related to the Touhou Project
+  * Official game characters
+  * Official literature characters
+  * Official CD characters
+  * Any character created by ZUN, even if unnamed or has no official appearance.
+
+* Notable exceptions:
+  * Len'en Project characters
+  * Touhou fangame characters
+  * Images with non-Touhou characters that also prominently feature Touhou characters within the image.
