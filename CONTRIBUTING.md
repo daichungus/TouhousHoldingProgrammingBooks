@@ -7,6 +7,6 @@ Contribution Guide Lines
 * Images must have descriptive file names in the following format (The file doesn't have to be "png" format, this is just an example):
     Name_Name_Book_Book.png
 
-* Add your images to the folder that best describes the subject matter of the book that the girl is holding. If no existing folder applies create a new one, the simpler the name, the best;
+* Add your images to the folder that best describes the subject matter of the book that the character is holding. If no existing folder applies create a new one, the simpler the name, the best;
 
-* All Characters must be female presenting (either canonically female or look/act like girls).
+* All characters must be from or related to the Touhou Project (see README)
