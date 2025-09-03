@@ -1,0 +1,7 @@
+* text eol=lf
+.gitattributes text
+.gitignore text
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
