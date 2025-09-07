@@ -19,6 +19,6 @@
   * Any character created by ZUN, even if unnamed or has no official appearance.
 
 * Allowed exceptions:
-  * Len'en Project characters
-  * Touhou fangame characters
-  * Images with non-Touhou characters that also *prominently* feature Touhou characters within the image.
+  * Len'en Project characters (use `Lenen` prefix)
+  * Touhou fangame characters (use `Fangame` prefix)
+  * Images with non-Touhou characters that also *prominently* feature Touhou characters within the image. (use `Crossover` prefix)
